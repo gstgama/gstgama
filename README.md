@@ -4,10 +4,10 @@
 - 🌱 Estudando Entity Framework Core e Angular. 
 
 <div>
-  <a href="https://www.linkedin.com/in/gustavogamacardozo/">
+  <a href="https://www.linkedin.com/in/gustavogamacardozo/ target="_blank"">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gstgama&show_icons=true&theme=github_dark" />
   </a>
-  <a href="https://www.linkedin.com/in/gustavogamacardozo/">
+  <a href="https://www.linkedin.com/in/gustavogamacardozo/ target="_blank"">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstgama&layout=compact&theme=github_dark" />
   </a>
 </div>
