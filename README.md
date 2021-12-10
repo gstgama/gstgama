@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🔭 Atualmente trabalho com consultas no banco de dado e presto suporte pro sistema interno da empresa Flex.
+- 🔭 Atualmente trabalho com consultas ao banco de dados e presto suporte no sistema interno da empresa Flex.
 - 🌱 Estudando Entity Framework Core e Angular. 
 
 <div>
