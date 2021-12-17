@@ -1,4 +1,4 @@
-### Olá 👋
+### What's up! 👋
 
 - 🔭 Currently working with database queries and supporting Flex's internal system.
 - 🌱 Making some projects with technologies and patterns such as Angular, Typescript, Bootstrap, Entity Framework Core, API Restful and more. 
