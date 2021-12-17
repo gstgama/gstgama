@@ -1,7 +1,7 @@
 ### Olá 👋
 
-- 🔭 Atualmente trabalho com consultas ao banco de dados e presto suporte no sistema interno da empresa Flex.
-- 🌱 Estudando Entity Framework Core e Typescript. 
+- 🔭 Currently working with database queries and supporting Flex's internal system.
+- 🌱 Making some projects with technologies and patterns such as Angular, Typescript, Bootstrap, Entity Framework Core, API Restful and more. 
 
 <div>
   <a href="https://www.linkedin.com/in/gustavogamacardozo/ target="_blank"">
