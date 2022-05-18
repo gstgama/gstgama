@@ -3,7 +3,7 @@
 - 🔭 Currently working with database queries and supporting Flex's internal system.
 - 🌱 Making some projects with technologies and patterns such as Angular, Typescript, Bootstrap, Entity Framework Core, API Restful and more. 
 
-/*<div>
+<!--<div>
   <a href="https://www.linkedin.com/in/gustavogamacardozo/ target="_blank"">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gstgama&show_icons=true&theme=github_dark" />
   </a>
@@ -24,4 +24,4 @@
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <a href="https://www.linkedin.com/in/gustavogamacardozo/" target="_blank"><img height="35em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>*/
+</div> -->
